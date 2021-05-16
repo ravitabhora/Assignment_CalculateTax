@@ -1,0 +1,30 @@
+{
+  "statusCode": 200,
+  "message": "Tax details",
+  "data": [
+    {
+      "name": "Andrew",
+      "pay_period": "01 March – 31 March",
+      "gross_income": "5004",
+      "income_tax": "922",
+      "net_income": "4082",
+      "super_amount": "450"
+    },
+    {
+      "name": "Ravita Kamra",
+      "pay_period": "01 April – 30 April",
+      "gross_income": "102881",
+      "income_tax": "44066",
+      "net_income": "58815",
+      "super_amount": "12335"
+    },
+    {
+      "name": "Claire Wong",
+      "pay_period": "01 March – 31 March",
+      "gross_income": "10000",
+      "income_tax": "2669",
+      "net_income": "7331",
+      "super_amount": "380"
+    }
+  ]
+}

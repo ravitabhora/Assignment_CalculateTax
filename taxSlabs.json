@@ -1,0 +1,44 @@
+{
+    "incomeTaxSlabs": [
+      {
+        "id": 1,
+        "min_amount": 0,
+        "max_amount": 18200,
+        "flat_amount": 0,
+        "tax_rate": 0
+
+      },
+      {
+        "id": 2,
+        "min_amount": 18200,
+        "max_amount": 37000,
+        "flat_amount": 0,
+        "tax_rate": 19
+
+      },
+      {
+        "id": 3,
+        "min_amount": 37001,
+        "max_amount": 87000,
+        "flat_amount": 3572,
+        "tax_rate": 32.5
+
+      },
+      {
+        "id": 4,
+        "min_amount": 87001,
+        "max_amount": 180000,
+        "flat_amount": 19822,
+        "tax_rate": 37
+
+      },
+      {
+        "id": 5,
+        "min_amount": 180001,
+        "max_amount": 9999999,
+        "flat_amount": 54232,
+        "tax_rate": 45
+
+      }
+    ]
+}
